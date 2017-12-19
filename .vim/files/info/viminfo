@@ -1,0 +1,225 @@
+# Vim 7.4 generó este archivo "viminfo".
+# Puede editarlo, ¡sólo si tiene cuidado!
+
+# Valor de 'encoding' cuando se escribió este archivo
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~H
+# Último Patrón de búsqueda:
+~MSle0~/back
+
+# Historia de Línea de órdenes (de lo más nuevo a lo más antiguo):
+:exit
+:PlugInstall
+:wq!
+:w!
+:wq
+:23
+:q!
+:'<,'>q!
+:Pluginstall
+:wq1
+:w
+
+# Historia de Cadena de búsqueda (de lo más nuevo a lo más antiguo):
+?/back
+
+# Historia de Expresión (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de entrada (de lo más nuevo a lo más antiguo):
+
+# Historia de Línea de entrada (de lo más nuevo a lo más antiguo):
+
+# Registros:
+""0	CHAR	0
+	J
+"1	LINE	0
+	VAMActivate by-name-and-pull-depenedencies
+"2	LINE	0
+	Bundle fugitive
+"3	LINE	0
+	call vundle#rc()
+"4	LINE	0
+	set rtp+=~/.vim/bundle/vim-addon-manager/
+"5	LINE	0
+	
+"6	LINE	0
+	""call vam#ActivateAddons([ctrlp])
+"7	LINE	0
+	set runtimepath+=.vim/vam
+"-	CHAR	0
+	J
+
+# Marcas en el archivo:
+'0  1  0  ~/ejemplo2.php
+'1  20  32  ~/.vim/vimrc
+'2  110  4  ~/.vim/vimrc
+'3  25  0  ~/.vim/vimrc
+'4  56  25  ~/.vim/vimrc
+'5  59  0  ~/.vim/vimrc
+'6  10  0  ~/ejemplo2.php
+'7  115  0  ~/.vim/autoload/plug.vim
+'8  60  0  ~/.vim/vimrc
+
+# Lista de saltos (el más reciente va primero):
+-'  1  0  ~/ejemplo2.php
+-'  20  32  ~/.vim/vimrc
+-'  1  0  ~/.vim/vimrc
+-'  110  4  ~/.vim/vimrc
+-'  109  4  ~/.vim/vimrc
+-'  108  47  ~/.vim/vimrc
+-'  72  42  ~/.vim/vimrc
+-'  25  0  ~/.vim/vimrc
+-'  56  25  ~/.vim/vimrc
+-'  59  0  ~/.vim/vimrc
+-'  10  0  ~/ejemplo2.php
+-'  115  0  ~/.vim/autoload/plug.vim
+-'  1  0  ~/.vim/autoload/plug.vim
+-'  60  0  ~/.vim/vimrc
+-'  115  0  ~/.vim/autoload/plug.vim
+-'  1  0  ~/.vim/autoload/plug.vim
+-'  115  0  ~/.vim/autoload/plug.vim
+-'  1  0  ~/.vim/autoload/plug.vim
+-'  18  0  ~/.vim/vimrc
+-'  115  0  ~/.vim/autoload/plug.vim
+-'  1  0  ~/.vim/autoload/plug.vim
+-'  115  0  ~/.vim/autoload/plug.vim
+-'  1  0  ~/.vim/autoload/plug.vim
+-'  115  0  ~/.vim/autoload/plug.vim
+-'  1  0  ~/.vim/autoload/plug.vim
+-'  115  0  ~/.vim/autoload/plug.vim
+-'  1  0  ~/.vim/autoload/plug.vim
+-'  115  0  ~/.vim/autoload/plug.vim
+-'  1  0  ~/.vim/autoload/plug.vim
+-'  115  0  ~/.vim/autoload/plug.vim
+-'  1  0  ~/.vim/autoload/plug.vim
+-'  115  0  ~/.vim/autoload/plug.vim
+-'  1  0  ~/.vim/autoload/plug.vim
+-'  115  0  ~/.vim/autoload/plug.vim
+-'  1  0  ~/.vim/autoload/plug.vim
+-'  115  0  ~/.vim/autoload/plug.vim
+-'  1  0  ~/.vim/autoload/plug.vim
+-'  115  0  ~/.vim/autoload/plug.vim
+-'  1  0  ~/.vim/autoload/plug.vim
+-'  115  0  ~/.vim/autoload/plug.vim
+-'  1  0  ~/.vim/autoload/plug.vim
+-'  115  0  ~/.vim/autoload/plug.vim
+-'  1  0  ~/.vim/autoload/plug.vim
+-'  115  0  ~/.vim/autoload/plug.vim
+-'  1  0  ~/.vim/autoload/plug.vim
+-'  115  0  ~/.vim/autoload/plug.vim
+-'  1  0  ~/.vim/autoload/plug.vim
+-'  115  0  ~/.vim/autoload/plug.vim
+-'  1  0  ~/.vim/autoload/plug.vim
+-'  115  0  ~/.vim/autoload/plug.vim
+-'  1  0  ~/.vim/autoload/plug.vim
+-'  115  0  ~/.vim/autoload/plug.vim
+-'  1  0  ~/.vim/autoload/plug.vim
+-'  115  0  ~/.vim/autoload/plug.vim
+-'  1  0  ~/.vim/autoload/plug.vim
+-'  115  0  ~/.vim/autoload/plug.vim
+-'  1  0  ~/.vim/autoload/plug.vim
+-'  115  0  ~/.vim/autoload/plug.vim
+-'  1  0  ~/.vim/autoload/plug.vim
+-'  115  0  ~/.vim/autoload/plug.vim
+-'  1  0  ~/.vim/autoload/plug.vim
+-'  115  0  ~/.vim/autoload/plug.vim
+-'  1  0  ~/.vim/autoload/plug.vim
+-'  115  0  ~/.vim/autoload/plug.vim
+-'  1  0  ~/.vim/autoload/plug.vim
+-'  115  0  ~/.vim/autoload/plug.vim
+-'  1  0  ~/.vim/autoload/plug.vim
+-'  115  0  ~/.vim/autoload/plug.vim
+-'  1  0  ~/.vim/autoload/plug.vim
+-'  115  0  ~/.vim/autoload/plug.vim
+-'  1  0  ~/.vim/autoload/plug.vim
+-'  115  0  ~/.vim/autoload/plug.vim
+-'  1  0  ~/.vim/autoload/plug.vim
+-'  115  0  ~/.vim/autoload/plug.vim
+-'  1  0  ~/.vim/autoload/plug.vim
+-'  115  0  ~/.vim/autoload/plug.vim
+-'  1  0  ~/.vim/autoload/plug.vim
+-'  54  0  ~/.vim/vimrc
+-'  115  0  ~/.vim/autoload/plug.vim
+-'  1  0  ~/.vim/autoload/plug.vim
+-'  55  0  ~/.vim/vimrc
+-'  115  0  ~/.vim/autoload/plug.vim
+-'  1  0  ~/.vim/autoload/plug.vim
+-'  115  0  ~/.vim/autoload/plug.vim
+-'  1  0  ~/.vim/autoload/plug.vim
+-'  16  0  ~/.vim/vimrc
+-'  115  0  ~/.vim/autoload/plug.vim
+-'  1  0  ~/.vim/autoload/plug.vim
+-'  115  0  ~/.vim/autoload/plug.vim
+-'  1  0  ~/.vim/autoload/plug.vim
+-'  115  0  ~/.vim/autoload/plug.vim
+-'  1  0  ~/.vim/autoload/plug.vim
+-'  115  0  ~/.vim/autoload/plug.vim
+-'  1  0  ~/.vim/autoload/plug.vim
+-'  115  0  ~/.vim/autoload/plug.vim
+-'  1  0  ~/.vim/autoload/plug.vim
+-'  115  0  ~/.vim/autoload/plug.vim
+
+# Historia de las marcas en los archivos (de la más reciente a la más antigua):
+
+> ~/ejemplo2.php
+	"	1	0
+
+> ~/.vim/ControlP
+	"	10	0
+	.	2	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	1	0
+	+	2	0
+
+> ~/.vim/vimrc
+	"	20	32
+	^	20	33
+	.	20	32
+	+	1	0
+	+	60	0
+	+	12	1
+	+	59	0
+	+	19	60
+	+	24	74
+	+	28	0
+	+	31	0
+	+	34	0
+	+	38	0
+	+	41	0
+	+	44	0
+	+	58	0
+	+	59	0
+	+	52	0
+	+	55	0
+	+	16	46
+	+	19	60
+	+	19	94
+	+	20	0
+	+	19	47
+	+	24	74
+	+	25	0
+	+	56	25
+	+	25	0
+	+	1	1
+	+	23	0
+	+	24	0
+	+	20	32
+
+> ~/.vim/autoload/plug.vim
+	"	115	0
